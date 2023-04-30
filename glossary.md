@@ -4,15 +4,17 @@
 
 ## A
 
-### Aircraft Classification Number - ACN
+Aircraft Classification Number (ACN)
 
-### Air Transport Pilot License - ATPL
-
-[ATPL](/regulatory#flight-crew-licensing)
+[Air Transport Pilot License (ATPL)](/aus-regs#flight-crew-licensing)
 
 ## B
 
 ## C
+
+[Category (of aircraft)](/aus-regs#category)
+
+[Class (of aircraft)](/aus-regs#class)
 
 ## D
 
