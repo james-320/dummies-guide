@@ -18,7 +18,7 @@ Whilst every effort is made to ensure the accuracy and currency of the enclosed 
 
 All content has been grouped thematically into three key areas:
 
-- [Regulatory](/regulatory)
+- [Regulatory](/aus-regs)
 - [Airline-specific](/AOC-specific)
 - [Aircraft-specific](/aircraft-specific)
 
@@ -28,8 +28,9 @@ Each of these areas is then further broken down into more specific sub-headings.
 
 Any additions, suggestions, or corrections are warmly welcomed. 
 
-For those more technically-inclined this site is hosted on a public GitHub repo, alternatively, the author can be contacted via email:
+For those more technically-inclined this site is hosted on a public GitHub repo, alternatively, the author can be contacted via:
 
+***Email***:
 [topspin_spikes.0u@icloud.com](mailto:topspin_spikes.0u@icloud.com)
 
 

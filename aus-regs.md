@@ -1,41 +1,57 @@
-# Australia (CASA)
+# Australia
 
 ---
 
 ## Regulatory Framework
-Australian civil aviation legislation is divided into primary, secondary, or delegated legislation. Secondary or delegated legislation is enabled or authorised by primary legislation.
+
+The Civil Aviation Safety Authority (CASA) is a government body that regulates aviation safety in Australia.
+
+Australian civil aviation legislation is divided into **primary** and **delegated** legislation. Delegated legislation is enabled or authorised by primary legislation. 
+
+In practice, we operate within a 3-tier system (with an additional 2 tiers of supporting documentation):
 
 ![Australian Aviation Legislation Structure](/img/aus-av-legislation-structure.png)
 
-### 1. Tier One
+### 1. Tier One *(Primary legislation)*
 
-- [*Civil Aviation Act 1998*][CAA]
-- [*Airspace Act 2007*][AirspaceAct]
+[*Civil Aviation Act 1998*][CAA]
 
-### 2. Tier Two
+[*Airspace Act 2007*][AirspaceAct]
 
-- [Civil Aviation Regulations 1988][CAR]
-- [Civil Aviation Safety Regulations 1998][CASR]
+### 2. Tier Two *(Delegated legislation)*
+
+[Civil Aviation Regulations 1988][CAR]
+
+[Civil Aviation Safety Regulations 1998][CASR]
 
 ![CASR Regulatory Map](/img/CASR-reg-structure.png)
 
-### 3. Tier Three
+### 3. Tier Three *(Delegated legislation)*
 
-- [Manual of Standards][MOS]
-- [Civil Aviation Orders][CAO]
-- Other legislative instruments (Directives, approvals, exemptions)
+[Manual of Standards][MOS]
 
-### 4. [Aeronautical Information Publication (AIP)][AIP]
+[Civil Aviation Orders][CAO]
 
-- Provided by Airservices Australia. Meets the definition of **'authorised aeronautical information'**.
+Other legislative instruments (Directives, approvals, exemptions)
+
+### 4. Aeronautical Information Publication 
+
+[AIP][AIP]
+
+Provided by Airservices Australia. Meets the definition of **authorised aeronautical information**.
 
 ### 5. Supporting Material
 
-- Advisory circulars, manuals & handbooks, information sheets, plain English guides etc.
+<abbr title="Acceptable Means of Compliance and Guidance Material">AMC/GM</abbr>, 
+<abbr title="Advisory Circular">AC</abbr>, 
+<abbr title="Civil Aviation Advisory Publication">CAAP</abbr>, 
+manuals & handbooks, information sheets, plain English guides etc.
 
 ## Flight Crew Licensing
 
 ### Definitions
+
+#### Aeronautical Experience
 
 #### Category
 
@@ -60,64 +76,108 @@ Each of the following is a ***class*** of aircraft:
 5. single-engine gyroplane;
 6. airship.
 
-> Single-engine class includes multi-engine centre-line thrust aeroplanes.
+> ***Note***: Single-engine class includes multi-engine centre-line thrust aeroplanes.
+
+#### Flight Time
 
 ### Licenses
 
-- Private Pilot License (PPL)
+#### Private Pilot License (PPL) [`CASR 61.H.1`][61.H.1]
 
-- Commercial Pilot License (CPL)
+##### Privileges
 
-- Air Transport Pilot License (ATPL)
+- Operate as PIC or co-pilot:
+    - In a private operation; or 
+    - When receiving flight training.
+- Transmit on an aviation safety radio frequency.
+
+##### Limitations
+
+- Require approved training *(or exemption)* to operate in a multi-crew operation.
+
+##### Requirements for Issue
+
+- Minimum age of 17;
+- Passed PPL aeronautical knowledge examination;
+- Completed PPL flight training;
+- Passed the PPL flight test;
+- Met the PPL aeronautical experience requirements.
+
+#### Commercial Pilot License (CPL) [`CASR 61.I.1`][61.I.1]
+
+##### Privileges
+
+- Operate as PIC in any aircraft in any operation except:
+    - Multi-crew aircraft conducting ATO;
+    - SEA > 5,700 kg conducting ATO **if** pilot flight time < 750 hr.
+- Operate as co-pilot in any aircraft in any operation.
+
+##### Limitations
+
+- Require approved training *(or exemption)* to operate in a multi-crew operation.
+
+##### Requirements for Issue
+
+- Minimum age of 18;
+- Passed CPL aeronautical knowledge examination;
+- Completed CPL flight training;
+- Passed the CPL flight test;
+- Met the CPL aeronautical experience requirements.
+
+#### Air Transport Pilot License (ATPL) [`CASR 61.K`][61.K]
+
+Refer to [ATPL-specific notes](/ATPL-notes)
 
 ### Ratings and Endorsements
 
-1. Aircraft ratings
+#### Aircraft ratings
 
-    - Category rating
-    [`CASR 61.L.2`][61.L.2]
+##### Category rating
 
-        - Flight activity endorsement (E.g. Aerobatics)
-        [`CASR 61.S`][61.S]
+[`CASR 61.L.2`][61.L.2]
 
-    - Class rating
-    [`CASR 61.L.3`][61.L.3]
+Flight activity endorsements (E.g. Aerobatics)
+[`CASR 61.S`][61.S]
 
-        - Aircraft design feature endorsement (E.g. MPPC, RU)
-        [`CASR 61.L.4`][61.L.4]
+##### Class rating
+[`CASR 61.L.3`][61.L.3]
 
-    - Type rating
-    [`CASR 61.L.5`][61.L.5]
+Aircraft design feature endorsements (E.g. 
+<abbr title="Manual Propellor Pitch Control">MPPC</abbr>, 
+<abbr title="Retractable Undercarriage">RU</abbr>)
+[`CASR 61.L.4`][61.L.4]
 
-        - All multi-crew and certain single-pilot aircraft
+##### Type rating
+[`CASR 61.L.5`][61.L.5]
 
-2. Operational ratings
+All multi-crew aircraft and certain single-pilot aircraft.
 
-    - Instrument rating [`CASR 61.M.1`][61.M.1]
+#### Operational ratings
 
-        - SEA, MEA, IAP 2D, IAP 3D endorsements
-        [`CASR 61.M.2`][61.M.2]
+##### Instrument Rating [`CASR 61.M.1`][61.M.1]
 
-    - Private instrument rating 
-    [`CASR 61.N.1`][61.N.1]
+<abbr title="Single-Engine Aircraft">SEA</abbr>,
+<abbr title="Multi-Engine Aircraft">MEA</abbr>, 
+<abbr title="Instrument Approach Procedure">IAP</abbr> 2D, 
+<abbr title="Instrument Approach Procedure">IAP</abbr> 3D endorsements
+[`CASR 61.M.2`][61.M.2]
 
-        - SEA, MEA, various other operation endorsements
-        [`CASR 61.N.2`][61.N.2]
+##### Private Instrument Rating [`CASR 61.N.1`][61.N.1]
 
-    - NVFR
-    [`CASR 61.O.1`][61.O.1]
+<abbr title="Single-Engine Aircraft">SEA</abbr>,
+<abbr title="Multi-Engine Aircraft">MEA</abbr>, 
+various other operational endorsements
+[`CASR 61.N.2`][61.N.2]
 
-    - Flight instructor
-    [`CASR 61.T.1`][61.T.1]
+##### <abbr title="Night Visual Flight Rules">NVFR Rating</abbr> [`CASR 61.O.1`][61.O.1]
 
-    - Sim instructor ratings
-    [`CASR 61.T.2`][61.T.2]
+##### Flight Instructor Rating [`CASR 61.T.1`][61.T.1]
 
-    - Flight examiner
-    [`CASR 61.U.1`][61.U.1]
+##### Sim Instructor Rating [`CASR 61.T.2`][61.T.2]
 
-        - Flight test and <abbr title="English Language Proficiency">ELP</abbr> endorsements
-        [`CASR 61.U.3`][61.U.3]
+##### Flight Examiner Rating [`CASR 61.U.1`][61.U.1]
+
+Various flight test and <abbr title="English Language Proficiency">ELP</abbr> endorsements. [`CASR 61.U.3`][61.U.3]
     
 
 > **Note:** NVIS, low-level, and aerial application ratings omitted for brevity.
@@ -164,3 +224,6 @@ Each of the following is a ***class*** of aircraft:
 [61.T.2]: http://www8.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_reg/casr1998333/s61.1190.html
 [61.U.1]: http://www8.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_reg/casr1998333/s61.1255.html
 [61.U.3]: http://www8.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_reg/casr1998333/s61.1310.html
+[61.H.1]: http://www8.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_reg/casr1998333/s61.505.html
+[61.I.1]: http://www8.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_reg/casr1998333/s61.570.html
+[61.K]: http://www8.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_reg/casr1998333/s61.665.html

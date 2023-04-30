@@ -16,17 +16,27 @@ Aircraft Classification Number (ACN)
 
 [Class (of aircraft)](/aus-regs#class)
 
+Commercial Pilot License (CPL)
+
 ## D
 
 ## E
 
 ## F
 
+Flight Simulation Training Device (FSTD)
+
 ## G
 
 ## H
 
 ## I
+
+Instrumentation (Aircraft requirements)
+
+Instrument Flight Rules (IFR)
+
+Instrument Proficiency Check (IPC)
 
 ## J
 
@@ -38,9 +48,13 @@ Aircraft Classification Number (ACN)
 
 ## N
 
+Night Visual Flight Rules (NVFR)
+
 ## O
 
 ## P
+
+Private Pilot License (PPL)
 
 ## Q
 
@@ -53,6 +67,12 @@ Aircraft Classification Number (ACN)
 ## U
 
 ## V
+
+Visual Approaches
+
+Visual Flight Rules (VFR)
+
+Visual Meteorological Conditions (VMC)
 
 ## W
 
