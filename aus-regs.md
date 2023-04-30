@@ -53,9 +53,7 @@ manuals & handbooks, information sheets, plain English guides etc.
 
 #### Aeronautical Experience
 
-#### Category
-
-[`CASR 61.015`][61.015]
+#### Category [`CASR 61.015`][61.015]
 
 Each of the following is a ***category*** of aircraft:
 1. aeroplane;
@@ -64,9 +62,7 @@ Each of the following is a ***category*** of aircraft:
 4. gyroplane;
 5. airship.
 
-#### Class
-
-[`CASR 61.020`][61.020]
+#### Class [`CASR 61.020`][61.020]
 
 Each of the following is a ***class*** of aircraft:
 1. single-engine aeroplane;
@@ -79,6 +75,14 @@ Each of the following is a ***class*** of aircraft:
 > ***Note***: Single-engine class includes multi-engine centre-line thrust aeroplanes.
 
 #### Flight Time
+
+#### Instrument Proficiency Check [`CASR 61.010`][61.010 IPC]
+
+> "means an assessment, against the standards mentioned in the Part 61 Manual of Standards, of a pilot’s competency to pilot an aircraft under the IFR."
+
+#### Operator Proficiency Check [`CASR 61.010`][61.010 OPC]
+
+> "means an assessment conducted by an operator in accordance with its training and checking responsibilities under these Regulations of whether a person has the aeronautical skills and knowledge required by the operator."
 
 ### Licenses
 
@@ -132,23 +136,19 @@ Refer to [ATPL-specific notes](/ATPL-notes)
 
 #### Aircraft ratings
 
-##### Category rating
-
-[`CASR 61.L.2`][61.L.2]
+##### Category rating [`CASR 61.L.2`][61.L.2]
 
 Flight activity endorsements (E.g. Aerobatics)
 [`CASR 61.S`][61.S]
 
-##### Class rating
-[`CASR 61.L.3`][61.L.3]
+##### Class rating [`CASR 61.L.3`][61.L.3]
 
 Aircraft design feature endorsements (E.g. 
 <abbr title="Manual Propellor Pitch Control">MPPC</abbr>, 
 <abbr title="Retractable Undercarriage">RU</abbr>)
 [`CASR 61.L.4`][61.L.4]
 
-##### Type rating
-[`CASR 61.L.5`][61.L.5]
+##### Type rating [`CASR 61.L.5`][61.L.5]
 
 All multi-crew aircraft and certain single-pilot aircraft.
 
@@ -227,3 +227,5 @@ Various flight test and <abbr title="English Language Proficiency">ELP</abbr> en
 [61.H.1]: http://www8.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_reg/casr1998333/s61.505.html
 [61.I.1]: http://www8.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_reg/casr1998333/s61.570.html
 [61.K]: http://www8.austlii.edu.au/cgi-bin/viewdb/au/legis/cth/consol_reg/casr1998333/s61.665.html
+[61.010 OPC]: http://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_reg/casr1998333/s61.010.html#operator_proficiency_check
+[61.010 IPC]: http://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_reg/casr1998333/s61.010.html#instrument_proficiency_check

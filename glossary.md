@@ -36,7 +36,7 @@ Instrumentation (Aircraft requirements)
 
 Instrument Flight Rules (IFR)
 
-Instrument Proficiency Check (IPC)
+[Instrument Proficiency Check (IPC)](/aus-regs#instrument-proficiency-check-casr-61010)
 
 ## J
 
@@ -51,6 +51,8 @@ Instrument Proficiency Check (IPC)
 Night Visual Flight Rules (NVFR)
 
 ## O
+
+[Operator Proficiency Check (OPC)](/aus-regs#operator-proficiency-check-casr-61010)
 
 ## P
 
