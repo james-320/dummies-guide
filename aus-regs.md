@@ -1,7 +1,5 @@
 # Australia
 
----
-
 ## Regulatory Framework
 
 The Civil Aviation Safety Authority (CASA) is a government body that regulates aviation safety in Australia.
@@ -12,13 +10,15 @@ In practice, we operate within a 3-tier system (with an additional 2 tiers of su
 
 ![Australian Aviation Legislation Structure](/img/aus-av-legislation-structure.png)
 
-### 1. Tier One *(Primary legislation)*
+### Tier One 
+<small>*(Primary legislation)*</small>
 
 [*Civil Aviation Act 1998*][CAA]
 
 [*Airspace Act 2007*][AirspaceAct]
 
-### 2. Tier Two *(Delegated legislation)*
+### Tier Two 
+<small>*(Delegated legislation)*</small>
 
 [Civil Aviation Regulations 1988][CAR]
 
@@ -26,7 +26,8 @@ In practice, we operate within a 3-tier system (with an additional 2 tiers of su
 
 ![CASR Regulatory Map](/img/CASR-reg-structure.png)
 
-### 3. Tier Three *(Delegated legislation)*
+### Tier Three
+<small>*(Delegated legislation)*</small>
 
 [Manual of Standards][MOS]
 
@@ -34,13 +35,13 @@ In practice, we operate within a 3-tier system (with an additional 2 tiers of su
 
 Other legislative instruments (Directives, approvals, exemptions)
 
-### 4. Aeronautical Information Publication 
+### Aeronautical Information Publication 
 
-[AIP][AIP]
+[<small>`AIP`</small>][AIP]
 
 Provided by Airservices Australia. Meets the definition of **authorised aeronautical information**.
 
-### 5. Supporting Material
+### Supporting Material
 
 <abbr title="Acceptable Means of Compliance and Guidance Material">AMC/GM</abbr>, 
 <abbr title="Advisory Circular">AC</abbr>, 
@@ -53,7 +54,8 @@ manuals & handbooks, information sheets, plain English guides etc.
 
 #### Aeronautical Experience
 
-#### Category [`CASR 61.015`][61.015]
+#### Category 
+<small>[`CASR 61.015`][61.015]</small>
 
 Each of the following is a ***category*** of aircraft:
 1. aeroplane;
@@ -62,7 +64,8 @@ Each of the following is a ***category*** of aircraft:
 4. gyroplane;
 5. airship.
 
-#### Class [`CASR 61.020`][61.020]
+#### Class 
+<small>[`CASR 61.020`][61.020]</small>
 
 Each of the following is a ***class*** of aircraft:
 1. single-engine aeroplane;
