@@ -10,14 +10,16 @@ In practice, we operate within a 3-tier system (with an additional 2 tiers of su
 
 ![Australian Aviation Legislation Structure](/img/aus-av-legislation-structure.png)
 
-### Tier One 
+### Tier One
+
 <small>*(Primary legislation)*</small>
 
 [*Civil Aviation Act 1998*][CAA]
 
 [*Airspace Act 2007*][AirspaceAct]
 
-### Tier Two 
+### Tier Two
+
 <small>*(Delegated legislation)*</small>
 
 [Civil Aviation Regulations 1988][CAR]
@@ -27,6 +29,7 @@ In practice, we operate within a 3-tier system (with an additional 2 tiers of su
 ![CASR Regulatory Map](/img/CASR-reg-structure.png)
 
 ### Tier Three
+
 <small>*(Delegated legislation)*</small>
 
 [Manual of Standards][MOS]
@@ -35,11 +38,11 @@ In practice, we operate within a 3-tier system (with an additional 2 tiers of su
 
 Other legislative instruments (Directives, approvals, exemptions)
 
-### Aeronautical Information Publication 
+### AIP
 
 [<small>`AIP`</small>][AIP]
 
-Provided by Airservices Australia. Meets the definition of **authorised aeronautical information**.
+The Aeronautical Information Package is provided by Airservices Australia. Meets the definition of **authorised aeronautical information**.
 
 ### Supporting Material
 
@@ -54,7 +57,8 @@ manuals & handbooks, information sheets, plain English guides etc.
 
 #### Aeronautical Experience
 
-#### Category 
+#### Category
+
 <small>[`CASR 61.015`][61.015]</small>
 
 Each of the following is a ***category*** of aircraft:
@@ -64,7 +68,8 @@ Each of the following is a ***category*** of aircraft:
 4. gyroplane;
 5. airship.
 
-#### Class 
+#### Class
+
 <small>[`CASR 61.020`][61.020]</small>
 
 Each of the following is a ***class*** of aircraft:
@@ -79,17 +84,23 @@ Each of the following is a ***class*** of aircraft:
 
 #### Flight Time
 
-#### Instrument Proficiency Check [`CASR 61.010`][61.010 IPC]
+#### Instrument Proficiency Check
+
+<small>[`CASR 61.010`][61.010 IPC]</small>
 
 > "means an assessment, against the standards mentioned in the Part 61 Manual of Standards, of a pilot’s competency to pilot an aircraft under the IFR."
 
-#### Operator Proficiency Check [`CASR 61.010`][61.010 OPC]
+#### Operator Proficiency Check
+
+<small>[`CASR 61.010`][61.010 OPC]</small>
 
 > "means an assessment conducted by an operator in accordance with its training and checking responsibilities under these Regulations of whether a person has the aeronautical skills and knowledge required by the operator."
 
 ### Licenses
 
-#### Private Pilot License (PPL) [`CASR 61.H.1`][61.H.1]
+#### Private Pilot License (PPL)
+
+<small>[`CASR 61.H.1`][61.H.1]</small>
 
 ##### Privileges
 
@@ -110,7 +121,9 @@ Each of the following is a ***class*** of aircraft:
 - Passed the PPL flight test;
 - Met the PPL aeronautical experience requirements.
 
-#### Commercial Pilot License (CPL) [`CASR 61.I.1`][61.I.1]
+#### Commercial Pilot License (CPL)
+
+<small>[`CASR 61.I.1`][61.I.1]</small>
 
 ##### Privileges
 
@@ -131,57 +144,82 @@ Each of the following is a ***class*** of aircraft:
 - Passed the CPL flight test;
 - Met the CPL aeronautical experience requirements.
 
-#### Air Transport Pilot License (ATPL) [`CASR 61.K`][61.K]
+#### Air Transport Pilot License (ATPL)
 
-Refer to [ATPL-specific notes](/ATPL-notes)
+<small>[`CASR 61.K`][61.K]</small>
+
+Refer to [ATPL Notes](/ATPL-notes)
 
 ### Ratings and Endorsements
 
 #### Aircraft ratings
 
-##### Category rating [`CASR 61.L.2`][61.L.2]
+##### Category rating
+
+<small>[`CASR 61.L.2`][61.L.2]</small>
 
 Flight activity endorsements (E.g. Aerobatics)
-[`CASR 61.S`][61.S]
 
-##### Class rating [`CASR 61.L.3`][61.L.3]
+<small>[`CASR 61.S`][61.S]</small>
+
+##### Class rating
+
+<small>[`CASR 61.L.3`][61.L.3]</small>
 
 Aircraft design feature endorsements (E.g. 
 <abbr title="Manual Propellor Pitch Control">MPPC</abbr>, 
-<abbr title="Retractable Undercarriage">RU</abbr>)
-[`CASR 61.L.4`][61.L.4]
+<abbr title="Retractable Undercarriage">RU)</abbr>
 
-##### Type rating [`CASR 61.L.5`][61.L.5]
+<small>[`CASR 61.L.4`][61.L.4]</small>
+
+##### Type rating
+
+<small>[`CASR 61.L.5`][61.L.5]</small>
 
 All multi-crew aircraft and certain single-pilot aircraft.
 
 #### Operational ratings
 
-##### Instrument Rating [`CASR 61.M.1`][61.M.1]
+##### Instrument Rating
+
+<small>[`CASR 61.M.1`][61.M.1]</small>
 
 <abbr title="Single-Engine Aircraft">SEA</abbr>,
 <abbr title="Multi-Engine Aircraft">MEA</abbr>, 
 <abbr title="Instrument Approach Procedure">IAP</abbr> 2D, 
 <abbr title="Instrument Approach Procedure">IAP</abbr> 3D endorsements
-[`CASR 61.M.2`][61.M.2]
 
-##### Private Instrument Rating [`CASR 61.N.1`][61.N.1]
+<small>[`CASR 61.M.2`][61.M.2]</small>
+
+##### Private Instrument Rating
+
+<small>[`CASR 61.N.1`][61.N.1]</small>
 
 <abbr title="Single-Engine Aircraft">SEA</abbr>,
 <abbr title="Multi-Engine Aircraft">MEA</abbr>, 
 various other operational endorsements
-[`CASR 61.N.2`][61.N.2]
 
-##### <abbr title="Night Visual Flight Rules">NVFR Rating</abbr> [`CASR 61.O.1`][61.O.1]
+<small>[`CASR 61.N.2`][61.N.2]</small>
 
-##### Flight Instructor Rating [`CASR 61.T.1`][61.T.1]
+##### NVFR Rating
 
-##### Sim Instructor Rating [`CASR 61.T.2`][61.T.2]
+<small>[`CASR 61.O.1`][61.O.1]</small>
 
-##### Flight Examiner Rating [`CASR 61.U.1`][61.U.1]
+##### Flight Instructor Rating
 
-Various flight test and <abbr title="English Language Proficiency">ELP</abbr> endorsements. [`CASR 61.U.3`][61.U.3]
-    
+<small>[`CASR 61.T.1`][61.T.1]</small>
+
+##### Sim Instructor Rating
+
+<small>[`CASR 61.T.2`][61.T.2]</small>
+
+##### Flight Examiner Rating
+
+<small>[`CASR 61.U.1`][61.U.1]</small>
+
+Various flight test and <abbr title="English Language Proficiency">ELP</abbr> endorsements. 
+
+<small>[`CASR 61.U.3`][61.U.3]</small>
 
 > **Note:** NVIS, low-level, and aerial application ratings omitted for brevity.
 

@@ -6,7 +6,7 @@ These notes have been compiled as a quick reference for Flight Crew who commit a
 
 ## Disclaimer
 
-> ⚠️ **Warning:** <span style="color:red">These notes are not for operational use.</span>
+> <span style="color:red">**⚠️ Warning ⚠️:** These notes are not for operational use.</span>
 
 Any relevant legislation, Company-specific policy or procedures, or local requirements take precedence over any of the information presented in these notes. 
 
