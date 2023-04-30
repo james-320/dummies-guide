@@ -1,6 +1,4 @@
-# Complete Idiot's Guide to Flying
-
----
+<!-- README.md -->
 
 ## Introduction
 

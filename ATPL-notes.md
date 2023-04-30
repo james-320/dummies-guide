@@ -104,92 +104,92 @@ No more than 25 hours may be completed in an FSTD that is not a flight simulator
 
 ## Practice Questions
 
-#### 1. q	Your ATPL comes with an IPC – If you completed the ATPL flight test on 15 Sep 2020 when will the IPC expire?
+#### 1. Your ATPL comes with an IPC – If you completed the ATPL flight test on 15 Sep 2020 when will the IPC expire?
 
 
-### 2. You are scheduled to fly a sector under the IFR where the destination will require a circling approach. Are there any limitations on conducting a circling approach under the IFR?
+#### 2. You are scheduled to fly a sector under the IFR where the destination will require a circling approach. Are there any limitations on conducting a circling approach under the IFR?
 
 
-### 3. You are flying an A320 aircraft with a charter operator that does not have an approved checking and training ‘cyclic’ system. It is 92 days since your most recent IPC. Are you able to complete a NDB approach at the destination if this was the only available approach?
+#### 3. You are flying an A320 aircraft with a charter operator that does not have an approved checking and training ‘cyclic’ system. It is 92 days since your most recent IPC. Are you able to complete a NDB approach at the destination if this was the only available approach?
 
 
-### 4. In which CAO would you find information regarding AOC requirements regarding the “obligations in relation to flight category and aeroplane requirements” for aircraft engaged in high capacity RPT operations?
+#### 4. In which CAO would you find information regarding AOC requirements regarding the “obligations in relation to flight category and aeroplane requirements” for aircraft engaged in high capacity RPT operations?
 
 
-### 5. Provide three examples of required information in an Operations Manual.
+#### 5. Provide three examples of required information in an Operations Manual.
 
 
-### 6. Your company is required to comply with CAO 48.1 and operates A320 aircraft. All operations are to and from home base. You are acclimatised, and have signed off at 2300L after a 10-hour flying duty period (FDP). There is no displacement time applicable. What is the earliest time you can sign on the next day to operate with a planned FDP of 9 hours?
+#### 6. Your company is required to comply with CAO 48.1 and operates A320 aircraft. All operations are to and from home base. You are acclimatised, and have signed off at 2300L after a 10-hour flying duty period (FDP). There is no displacement time applicable. What is the earliest time you can sign on the next day to operate with a planned FDP of 9 hours?
 
 
-### 7. You are the Captain of an A320 that has landed at Melbourne; the passengers are off the aircraft and the entire crew is just leaving the aircraft via the left front cabin door. Is CASA legally able to test the crew for drugs and alcohol at that point?
+#### 7. You are the Captain of an A320 that has landed at Melbourne; the passengers are off the aircraft and the entire crew is just leaving the aircraft via the left front cabin door. Is CASA legally able to test the crew for drugs and alcohol at that point?
 
 
-### 8. How many artificial horizons are required for an airline operating RPT services?
+#### 8. How many artificial horizons are required for an airline operating RPT services?
 
 
-### 9. When are life jackets required to be carried in a multi engine aircraft?
+#### 9. When are life jackets required to be carried in a multi engine aircraft?
 
 
-### 10. An aerodrome certificate is required for an aerodrome for charter and what other operations to that aerodrome?
+#### 10. An aerodrome certificate is required for an aerodrome for charter and what other operations to that aerodrome?
 
 
-### 11. As the Captain, you sign on for duty for an RPT service, and after reading the destination NOTAMS, notice that the single wind direction indicator is unserviceable. Can you land at this airport?
+#### 11. As the Captain, you sign on for duty for an RPT service, and after reading the destination NOTAMS, notice that the single wind direction indicator is unserviceable. Can you land at this airport?
 
 
-### 12. What is the CASA minimum pre-flight fuel requirements for a turbine engine, propeller or jet, charter flight?
+#### 12. What is the CASA minimum pre-flight fuel requirements for a turbine engine, propeller or jet, charter flight?
 
 
-### 13. When are seat belts or safety harnesses required to be worn?
+#### 13. When are seat belts or safety harnesses required to be worn?
 
 
-### 14. What are the training requirements for flight crew before dangerous goods can be carried on your aircraft?
+#### 14. What are the training requirements for flight crew before dangerous goods can be carried on your aircraft?
 
 
-### 15. Demonstrate use of a manual load chart or electronic weight and balance software – as provided by the training organisation.
+#### 15. Demonstrate use of a manual load chart or electronic weight and balance software – as provided by the training organisation.
 
 
-### 16. What categories of aircraft require a load sheet to be completed?
+#### 16. What categories of aircraft require a load sheet to be completed?
 
 
-### 17. Demonstrate use of routine take-off and landing performance calculations (using tabular or electronic software).
+#### 17. Demonstrate use of routine take-off and landing performance calculations (using tabular or electronic software).
 
 
-### 18. Describe the minimum approach climb and landing gradients?
+#### 18. Describe the minimum approach climb and landing gradients?
 
 
-### 19. What is the standard missed approach climb gradient and to what altitude must it be maintained?
+#### 19. What is the standard missed approach climb gradient and to what altitude must it be maintained?
 
 
-### 20. During an A320 turn around at a port with no engineering capability, the company approved maintenance organisation (CAMO) asks you to check the engine oil level on one of the engines and top up if required. There is ground support equipment, tools and the correct oil available to physically complete the process. Are you legally able to complete this task?
+#### 20. During an A320 turn around at a port with no engineering capability, the company approved maintenance organisation (CAMO) asks you to check the engine oil level on one of the engines and top up if required. There is ground support equipment, tools and the correct oil available to physically complete the process. Are you legally able to complete this task?
 
 ---
 Matt's Study Questions
 
 
-### 21. If you leave your current operator and go to another operator on the same type can you begin flying with no additional requirements?
+#### 21. If you leave your current operator and go to another operator on the same type can you begin flying with no additional requirements?
 
 
-### 22. What is an AOC? Explain what is listed on an AOC and Ops Spec.
+#### 22. What is an AOC? Explain what is listed on an AOC and Ops Spec.
 
 
-### 23. Can your operator conduct airwork operations?
+#### 23. Can your operator conduct airwork operations?
 
 
-### 24. If conducting a ferry flight do you require a full manual suite?
+#### 24. If conducting a ferry flight do you require a full manual suite?
 
 
 <!-- TODO  ### 25. FRMS Scenario -->
 
 
-### 26. You are the Captain on a flight and the First Officer arrives smelling of alcohol. What would you do?
+#### 26. You are the Captain on a flight and the First Officer arrives smelling of alcohol. What would you do?
 
 
-### 27. What are the requirements for an artificial horizon?
+#### 27. What are the requirements for an artificial horizon?
 
 
 
-### 28. If the ISIS attitude function is U/S can you still accept the aircraft?
+#### 28. If the ISIS attitude function is U/S can you still accept the aircraft?
 
 
 
@@ -197,83 +197,83 @@ Matt's Study Questions
 
 
 
-### 30. If both portable ELTs are missing can you still depart?
+#### 30. If both portable ELTs are missing can you still depart?
 
 
 
-### 31. What are the requirements for a windsock?
+#### 31. What are the requirements for a windsock?
 
 
 
-### 32. What are your pre-flight fuel requirements? What are your in-flight fuel requirements?
+#### 32. What are your pre-flight fuel requirements? What are your in-flight fuel requirements?
 
 
 
-### 33. What is the oil quantity required for flight?
+#### 33. What is the oil quantity required for flight?
 
 
 
-### 34. Theoretical depressurisation scenario. Fuel calculation considerations.
+#### 34. Theoretical depressurisation scenario. Fuel calculation considerations.
 
 
 
-### 35. You notice on the walk around there are DGs being loaded in the front and aft hold. Is this allowable?
+#### 35. You notice on the walk around there are DGs being loaded in the front and aft hold. Is this allowable?
 
 
 
-### 36. Can DGs travel in the bulk hold?
+#### 36. Can DGs travel in the bulk hold?
 
 
 
-### 37. What is the reporting timeframe for DG incidents?
+#### 37. What is the reporting timeframe for DG incidents?
 
 
 
-### 38. What is your operator's policy for when Flight Crew must wear seatbelts?
+#### 38. What is your operator's policy for when Flight Crew must wear seatbelts?
 
 
 
-### 39. Who is responsible for load control on a specific flight?
+#### 39. Who is responsible for load control on a specific flight?
 
 
 
-### 40. What is the second segment gross climb gradient requirement?
+#### 40. What is the second segment gross climb gradient requirement?
 
 
 
-### 41. What is the field length limit pre-dispatch? (LDR)
+#### 41. What is the field length limit pre-dispatch? (LDR)
 
 
 
-### 42. What are the screen heights for a dry and wet takeoff?
+#### 42. What are the screen heights for a dry and wet takeoff?
 
 
 
-### 43. There is a NOTAM increasing the missed approach gradient requirement to 5.3%. What is your max landing weight (OEI) and what can you do to increase this weight?
+#### 43. There is a NOTAM increasing the missed approach gradient requirement to 5.3%. What is your max landing weight (OEI) and what can you do to increase this weight?
 
 
 
-### 44. Can you do pilot maintenance?
+#### 44. Can you do pilot maintenance?
 
 
 
-### 45. What is a CAMO?
+#### 45. What is a CAMO?
 
 
 
-### 46. What are your aircraft flap and gear limit speeds?
+#### 46. What are your aircraft flap and gear limit speeds?
 
 
 
-### 47. What is the max tyre speed and when would this be a limiting factor?
+#### 47. What is the max tyre speed and when would this be a limiting factor?
 
 
 
-### 48. What is the fuel feed sequence?
+#### 48. What is the fuel feed sequence?
 
 
 
-### 49. Various TAF and SIGWX decoding questions.
+#### 49. Various TAF and SIGWX decoding questions.
 
 
 [61.040]: http://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_reg/casr1998333/s61.040.html
