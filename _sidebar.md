@@ -13,6 +13,6 @@
 
 - Aircraft-Specific
 
-    - [A320](A320-specific)
+    - [A320](A320)
 
 - [Glossary](glossary)
