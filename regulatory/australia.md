@@ -150,7 +150,7 @@ Each of the following is a ***class*** of aircraft:
 
 <small>[`CASR 61.K`][61.K]</small>
 
-Refer to [ATPL Notes](/ATPL-notes)
+Refer to [ATPL Notes](/regulatory/ATPL)
 
 ### Ratings and Endorsements
 

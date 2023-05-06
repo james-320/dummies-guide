@@ -8,7 +8,7 @@
 
 ### Privileges
 
-<small>[`CASR 61.665`][61.665]</small>
+[`CASR 61.665`][61.665]
 
 - Operate as PIC in any aircraft in any operation (*Includes multi-crew ATO*).
 - Operate as co-pilot in any aircraft in any operation.
@@ -17,7 +17,7 @@
 
 #### Single-pilot IFR flight
 
-<small>[`CASR 61.675`][61.675]</small>
+[`CASR 61.675`][61.675]
 
 Operate single-pilot IFR only if:
 - Instrument Rating flight test was passed in a single-pilot aircraft; or
@@ -25,7 +25,7 @@ Operate single-pilot IFR only if:
 
 #### General limitations
 
-<small>[`CASR 61.680`][61.680]</small>
+[`CASR 61.680`][61.680]
 
 Conduct an instrument approach operation only if:
 - The aircraft is equipped for that kind of approach.
@@ -36,7 +36,7 @@ Conduct a circling approach only if:
  - The most recent IPC included a circling approach; or
  - Both:
     - Successfully participating in an operator's check and training system for an operation that includes circling approaches; and
-    - The operator holds an approval under <small>[`CASR 61.040`][61.040]</small>.
+    - The operator holds an approval under [`CASR 61.040`][61.040].
 
 Conduct a 3D approach only if:
 
@@ -46,7 +46,7 @@ Conduct a 3D approach only if:
     - A 3D approach has been demonstrated in the past 15 months to an approved person (CASA or Flight Examiner).
 - Both:
     - Successfully participating in an operator's check and training system for an operation that includes circling approaches; and
-    - The operator holds an approval under <small>[`CASR 61.040`][61.040]</small>.
+    - The operator holds an approval under [`CASR 61.040`][61.040].
 
 Conduct a particular instrument approach only if:
 
@@ -55,14 +55,14 @@ Conduct a particular instrument approach only if:
 
 #### Recent Experience Requirements
 
-<small>[`CASR 61.685`][61.685]</small>
+[`CASR 61.685`][61.685]
 
 Exemptions:
 
 - The pilot has completed an OPC covering IFR operations within the previous 3 months; or
 - Both:
     - The pilot is successfully participating in an operator's training and checking system for an IFR operation; and
-    - The operator holds an approval under <small>[`CASR 61.685`][61.685]</small>.
+    - The operator holds an approval under [`CASR 61.685`][61.685].
 
 Requirements to fly under the IFR:
 
@@ -70,7 +70,7 @@ Requirements to fly under the IFR:
 
 #### IPC Requirements
 
-<small>[`CASR 61.695`][61.695]</small>
+[`CASR 61.695`][61.695]
 
 An ATPL holder can operate under the IFR if they have a valid IPC for the aircraft category.
 
@@ -78,7 +78,7 @@ An ATPL holder can be taken to have a valid IPC during the following periods:
 
 - From the completion of an ATPL flight test till the end of the 12th month after the month in which the holder successfully completes the check; or
 - From the completion of an OPC conducted by a flight examiner who holds an instrument rating flight test endorsement till the end of the 12th month after the month in which the holder successfully completes the check; or
-- For the duration the holder is participating in an operator's training and checking system for an IFR operation which is approved under <small>[`CASR 61.040`][61.040]</small>; or
+- For the duration the holder is participating in an operator's training and checking system for an IFR operation which is approved under [`CASR 61.040`][61.040]; or
 - From the completion of an IPC till the end of the 12th month after the month in which the holder successfully completes the check.
 
 If the holder is taken to have a valid IPC per the above and they complete an IPC within 3 months of the expiry date, the new validity period begins from the expiry date (rather than the check date).
@@ -88,7 +88,7 @@ If the holder is taken to have a valid IPC because of their participation in an 
 
 ### Requirements for Issue
 
-<small>[`CASR 61.700`][61.700]</small>
+[`CASR 61.700`][61.700]
 
 - Minimum age of 21;
 - Must hold a CPL or MPL with the same aircraft category rating;
@@ -100,7 +100,7 @@ If the holder is taken to have a valid IPC because of their participation in an 
 
 ### Aeronautical Experience Requirements
 
-<small>[`CASR 61.705`][61.705]</small>
+[`CASR 61.705`][61.705]
 
 Applicants must have:
 
