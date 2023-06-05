@@ -36,6 +36,12 @@
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- Offline SWA -->
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+      navigator.serviceWorker.register('sw.js')
+    }
+  </script>
   <!-- docsify-themeable -->
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
   <!-- Zoomable images -->
