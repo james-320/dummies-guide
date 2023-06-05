@@ -4,11 +4,13 @@
 
 ---
 
-## Part 61 Air Transport Pilot License
+## CASA Air Transport Pilot License
 
 ### Privileges
 
 [`CASR 61.665`][61.665]
+
+An ATPL holder may:
 
 - Operate as PIC in any aircraft in any operation (*Includes multi-crew ATO*).
 - Operate as co-pilot in any aircraft in any operation.
@@ -19,7 +21,8 @@
 
 [`CASR 61.675`][61.675]
 
-Operate single-pilot IFR only if:
+An ATPL holder may operate single-pilot IFR only if:
+
 - Instrument Rating flight test was passed in a single-pilot aircraft; or
 - Completed an IPC in a single-pilot aircraft.
 
@@ -27,10 +30,13 @@ Operate single-pilot IFR only if:
 
 [`CASR 61.680`][61.680]
 
-Conduct an instrument approach operation only if:
+The following limitations apply to the holder of an ATPL.
+
+ Conduct an **instrument approach operation** only if:
+
 - The aircraft is equipped for that kind of approach.
 
-Conduct a circling approach only if:
+Conduct a **circling approach** only if:
 
  - The ATPL flight test was passed in the past 12 months and it included a circling approach; or
  - The most recent IPC included a circling approach; or
@@ -38,7 +44,7 @@ Conduct a circling approach only if:
     - Successfully participating in an operator's check and training system for an operation that includes circling approaches; and
     - The operator holds an approval under [`CASR 61.040`][61.040].
 
-Conduct a 3D approach only if:
+Conduct a **3D approach** only if:
 
 - The flight test was passed in the past 12 months and it included a 3D approach; or
 - Either:
@@ -48,7 +54,7 @@ Conduct a 3D approach only if:
     - Successfully participating in an operator's check and training system for an operation that includes circling approaches; and
     - The operator holds an approval under [`CASR 61.040`][61.040].
 
-Conduct a particular instrument approach only if:
+Conduct a particular **instrument approach** only if:
 
 - The pilot has completed training in the conduct of that approach; and
 - Demonstrated competency to an approved person (CASA or Flight Examiner).
@@ -66,7 +72,12 @@ Exemptions:
 
 Requirements to fly under the IFR:
 
-- At least 3 instrument approach operations within the previous 90 days in an aircraft or FSTD.
+- At least 3 instrument approach operations within the previous 90 days in an aircraft or FSTD; and
+- At least 1 instrument approach operation within the previous 90 days in an aircraft **of the same category** or FSTD.
+
+Requirement to conduct an approach operation:
+
+- At least 1 approach operation within the previous 90 days of the same type (2D, 3D, azimuth guidance, course deviation indicator)
 
 #### IPC Requirements
 
@@ -120,17 +131,17 @@ No more than 25 hours may be completed in an FSTD that is not a flight simulator
 
 ## Practice Questions
 
-1. #### Your ATPL comes with an IPC – If you completed the ATPL flight test on 15 Sep 2020 when will the IPC expire?
+1. #### Your ATPL comes with an IPC – If you completed the ATPL flight test on 15 Sep 2023 when will the IPC expire?
 
-
+31st October 2024
 
 2. #### You are scheduled to fly a sector under the IFR where the destination will require a circling approach. Are there any limitations on conducting a circling approach under the IFR?
 
-
+Must have completed the ATPL flight test, or an IPC, where a circling approach was conducted in the previous 13 months. Alternatively, particpating successfully in an operator's check and training system that includes circling approaches.
 
 3. #### You are flying an A320 aircraft with a charter operator that does not have an approved checking and training ‘cyclic’ system. It is 92 days since your most recent IPC. Are you able to complete a NDB approach at the destination if this was the only available approach?
 
-
+Only if an azimuth guidance approach operation has been conducted in the previous 90 days.
 
 4. #### In which CAO would you find information regarding AOC requirements regarding the “obligations in relation to flight category and aeroplane requirements” for aircraft engaged in high capacity RPT operations?
 
